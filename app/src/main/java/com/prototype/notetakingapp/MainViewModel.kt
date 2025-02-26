@@ -18,7 +18,7 @@ class MainViewModel : ViewModel() {
             val result = withContext(Dispatchers.IO) {
                 try {
                     val request = Request.Builder()
-                        .url("https://your-api-id.execute-api.your-region.amazonaws.com/v1/data.json")
+                        .url("Enter Your API URL")
                         .build()
 
                     client.newCall(request).execute().use { response ->

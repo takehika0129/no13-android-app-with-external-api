@@ -1,5 +1,5 @@
 # Add API Integration Functionality to an Android App
-A simple Android app that fetches text from an **AWS API Gateway** and displays it with UI using **Jetpack Compose**.
+A simple Android app that fetches text from API and displays it with UI using Jetpack Compose.
 
 
 ## 📱 App Screenshot  
